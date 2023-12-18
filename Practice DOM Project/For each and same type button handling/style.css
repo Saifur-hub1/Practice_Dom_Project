@@ -1,0 +1,18 @@
+body{
+  display: flex;
+  min-height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.css-greeting{
+  background-color: lightgreen;
+  border: 1px solid black;
+  padding: 20px 25px;
+  border-radius: 20px;
+  margin-left: 8px;
+  cursor: pointer;
+}
+.css-greeting:hover{
+  opacity: .7;
+}
